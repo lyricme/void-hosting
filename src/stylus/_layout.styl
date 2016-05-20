@@ -1,0 +1,11 @@
+@import '_mixins'
+
+.layer
+	absolute top 0 left 0
+	for i in 0...20
+		&-{'%s' % i}
+			z-index : i
+			
+.content
+	position: relative
+	fullscreen()

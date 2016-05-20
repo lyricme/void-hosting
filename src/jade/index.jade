@@ -1,0 +1,67 @@
+doctype
+
+html.hires_void
+
+head
+	title V O I D
+	meta(charset="utf-8")
+	meta(http-equiv="x-ua-compatible" content="ie=edge")
+	meta(name="viewport" content="width=device-width, initial-scale=1")
+	meta(name="robots" content="index, follow")
+	meta(name="description" content="A playground for us to experiment with new visual and sonic concepts and technology...or Soulbath version 2.0 (15 years late).")
+	meta(name="keywords" content="VOID, digital, art, visual, sonic, experimental, Hi-ReS!, internet, technology, concepts, soulbath")
+	meta(name="canonical" content="http://void.hi-res.net")
+	meta(name="author" content="Hi-ReS!")
+	meta(property="og:image", content="#{locals.base_path}/img/social/void0.jpg")
+	meta(property="og:image", content="#{locals.base_path}/img/social/void1.jpg")
+	meta(property="og:image", content="#{locals.base_path}/img/social/void2.jpg")
+	meta(property="og:image", content="#{locals.base_path}/img/social/void3.jpg")
+	meta(property="og:image", content="#{locals.base_path}/img/social/void4.jpg")
+	meta(property="og:image", content="#{locals.base_path}/img/social/void5.jpg")
+	meta(property="og:image", content="#{locals.base_path}/img/social/void6.jpg")
+	
+	link(href='http://fonts.googleapis.com/css?family=EB+Garamond|Montserrat' rel='stylesheet' type='text/css')
+	link(rel="apple-touch-icon" href="apple-touch-icon.png")
+	link(rel="shortcut icon", type="image/x-icon", href="#{locals.base_path}/favicon.ico")
+
+	if locals.production
+		link(rel="stylesheet", type="text/css", href="#{locals.base_path}/css/app.min.#{locals.version}.css")
+	else
+		link(rel="stylesheet", type="text/css", href="#{locals.base_path}/css/app.css")
+
+	script(defer, src="#{locals.base_path}/js/jquery-2.1.1.min.js")
+
+body
+
+	main#void
+
+	script.
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', '#{locals.ga_analytics}', 'auto');
+		ga('send', 'pageview');
+
+	script(defer).
+		var env = {
+			BASE_PATH: '#{locals.base_path}',
+			DEBUG: false,
+			LIVE: true,
+			BROWSER_SPEC: {
+				'Chrome'  : 31,
+				'Safari'  : 8
+			}
+		};
+
+	script(src="#{locals.base_path}/js/cs.js")
+
+	if locals.production
+		script(src="#{locals.base_path}/js/coffee-collider-dev.js")
+		script(defer, src="#{locals.base_path}/js/vendor.min.#{locals.version}.js")
+		script(defer, src="#{locals.base_path}/js/app.min.#{locals.version}.js")
+	else
+		script(src="#{locals.base_path}/js/coffee-collider-dev.js")
+		script(defer, src="#{locals.base_path}/js/vendor.js")
+		script(defer, src="#{locals.base_path}/js/app.js")

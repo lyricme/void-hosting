@@ -1,0 +1,11 @@
+.section(id="navigation", class="layer layer-10")
+
+	.content
+
+		nav
+			ul
+				for data in locals.data
+					li
+						a(href="#", data-id="#{data.id}")
+							span.title #{data.nav_title}
+							span.ch #{data.chapter}

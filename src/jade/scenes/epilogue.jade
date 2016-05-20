@@ -1,0 +1,23 @@
+extends scene
+
+block content
+
+	.hitarea.layer.layer-0
+
+	h2(class="layer layer-1 font-garamond bold") EPILOGUE
+
+	h1(class="hi_res layer layer-1"): a(href="http://hi-res.net", title="Hi-ReS!", target="_blank")
+
+	.paragraphs.layer
+		dl
+			for paragraph in locals.data.paragraphs
+				| !{paragraph}
+				br
+
+	ul.social.layer
+		li
+			a(href="#" class="facebook" data-share="facebook")
+		li
+			a(href="#", class="twitter" data-share="twitter")
+		li
+			a(href="#", class="googleplus" data-share="google")

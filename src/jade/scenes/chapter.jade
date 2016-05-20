@@ -1,0 +1,57 @@
+extends scene
+
+block content
+
+	section.chapter.layer.layer-0
+		p.chapter_index #{locals.data.chapter}
+
+		h2 #{locals.data.title}
+
+		for paragraph in locals.data.paragraphs
+			p.about #{paragraph}
+
+		ul.interactions
+			for interaction in locals.data.interactions
+				li
+					//- img(src="#{locals.base_path}/img/ui/icon_#{interaction.id}.png")
+					.icon.dragdrop
+					br
+					span !{interaction.text}
+
+		//- dl.authors.caps-text
+		//- 	for author in locals.data.authors
+		//- 		dt #{author.role}
+		//- 		span.dash.layer /
+		//- 		dd #{author.name}
+
+	.hitarea.layer.layer-1
+
+	- if(locals.data.id == 'elements')
+
+		- solids   = ['hexahedron', 'octahedron', 'tetrahedron', 'icosahedron', 'dodecahedron']
+		- elements = ['earth', 'air', 'fire', 'water', 'universe']
+
+		section.titles.layer.layer-1
+
+			- for (var i = 0; i < solids.length; ++i){
+				- solid   = solids[i]
+				- element = elements[i]
+				.title.layer(data-id="#{solid}")
+					img(src="#{locals.base_path}/img/elements/#{solid}.png")
+					h3 #{element}
+			- }
+
+		nav.geometry.layer.layer-2
+
+			ul
+				for solid, i in solids
+					li
+						a(href="#", data-id="#{solid}")
+							.layer(href="#", data-id="#{solid}" data-sequence)
+
+	nav.next.layer.layer-2
+
+		h3
+			a(href="#") #{locals.data.title}
+		.caps-text
+			| HOLD THE SPACE BAR TO CONTINUE

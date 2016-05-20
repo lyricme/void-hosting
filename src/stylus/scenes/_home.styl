@@ -1,0 +1,36 @@
+@import '../_variables'
+@import '../_mixins'
+
+html.{NS}
+
+	#home
+		
+		h1
+			hide()	
+
+		h2
+			top: 31.7%
+			width: 100%
+			text-align: center
+			font-size: 14px
+			hide()
+			remify(letter-spacing, 5px)
+
+		.paragraphs
+			
+			$width  = 460px
+			$height = 400px
+			
+			top: 52.8%
+			left: 50%
+			text-align: center
+			remify(width, $width)
+			remify(margin-left, -($width/2))
+			
+			p
+				remify(margin-bottom, 22px)
+				remify(letter-spacing, 2px)
+				
+			span
+				opacity: 0
+				pointer-events: none

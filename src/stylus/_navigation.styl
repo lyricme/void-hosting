@@ -1,0 +1,46 @@
+@import '_variables'
+@import '_mixins'
+
+html.{NS}
+
+	#navigation
+
+		top: auto
+		bottom: 0
+		width: 100%
+		text-align: center
+		hide()
+		ul li
+
+			display: inline-block
+			remify(margin, 0 10px)
+
+			a
+				remify(padding, 30px 30px 20px 30px)
+				display: block
+				position: relative
+
+
+				&:hover
+				&.active
+
+					span.ch
+						opacity: 1
+
+				&:hover
+					span.title
+						opacity: 1
+						letter-spacing: 1px
+
+				span
+					width: 100%
+					display: inline-block
+
+					&.ch
+						transition: opacity 0.17s ease-in
+						opacity: 0.4
+
+					&.title
+						absolute top 0 left 0
+						transition: opacity 0.5s ease-in 0.1s, letter-spacing 4s ease 0.1s
+						opacity:0

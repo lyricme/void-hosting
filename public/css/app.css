@@ -1,0 +1,1711 @@
+
+/* line 20 : /Users/DPR/Github/hi-res/void/src/stylus/app.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/stylus/lib/functions/index.styl */
+
+/* line 286 : /Users/DPR/Github/hi-res/void/node_modules/stylus/lib/functions/index.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/rupture/rupture/index.styl */
+
+/* line 260 : /Users/DPR/Github/hi-res/void/node_modules/rupture/rupture/index.styl */
+
+/* line 24 : /Users/DPR/Github/hi-res/void/src/stylus/_reset.styl */
+
+/* line 24 : /Users/DPR/Github/hi-res/void/src/stylus/_reset.styl */
+
+/* line 14 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/index.styl */
+
+/* line 14 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/index.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/border.styl */
+
+/* line 10 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/border.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/clearfix.styl */
+
+/* line 28 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/clearfix.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/color-image.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/color-image.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/flex.styl */
+
+/* line 196 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/flex.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/gradients.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/gradients.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/config.styl */
+
+/* line 11 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/config.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/iconic.styl */
+
+/* line 7 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/iconic.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/image.styl */
+
+/* line 25 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/image.styl */
+
+/* line 19 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/index.styl */
+
+/* line 19 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/index.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/base.styl */
+
+/* line 8 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/base.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/html5.styl */
+
+/* line 19 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/html5.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/links.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/links.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/text.styl */
+
+/* line 30 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/text.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/embed.styl */
+
+/* line 7 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/embed.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/groups.styl */
+
+/* line 17 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/groups.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/forms.styl */
+
+/* line 69 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/forms.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/tables.styl */
+
+/* line 7 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/normalize/tables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/overflow.styl */
+
+/* line 20 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/overflow.styl */
+
+/* line 3 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/positions.styl */
+
+/* line 66 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/positions.styl */
+
+/* line 3 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+
+/* line 78 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+
+/* line 5 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/index.styl */
+
+/* line 5 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/index.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/aliases.styl */
+
+/* line 12 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/aliases.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/ellipsis.styl */
+
+/* line 9 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/ellipsis.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/hide-text.styl */
+
+/* line 8 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/hide-text.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/replace-text.styl */
+
+/* line 9 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/replace-text.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/shadow-stroke.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/text/shadow-stroke.styl */
+
+/* line 541 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/vendor.styl */
+
+/* line 11 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/vendor.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/config.styl */
+
+/* line 577 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/config.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/size.styl */
+
+/* line 28 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/size.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 14 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+body {
+  line-height: 1;
+  color: #000;
+  background: #fff;
+}
+
+/* line 16 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+ol,
+ul {
+  list-style: none;
+}
+
+/* line 18 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  vertical-align: middle;
+}
+
+/* line 20 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+caption,
+th,
+td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 22 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+a img {
+  border: none;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_reset.styl */
+html.hires_void {
+  font-size: 62.5%;
+}
+
+/* line 4 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+html.hires_void html,
+html.hires_void body,
+html.hires_void div,
+html.hires_void span,
+html.hires_void applet,
+html.hires_void object,
+html.hires_void iframe,
+html.hires_void h1,
+html.hires_void h2,
+html.hires_void h3,
+html.hires_void h4,
+html.hires_void h5,
+html.hires_void h6,
+html.hires_void p,
+html.hires_void blockquote,
+html.hires_void pre,
+html.hires_void a,
+html.hires_void abbr,
+html.hires_void acronym,
+html.hires_void address,
+html.hires_void big,
+html.hires_void cite,
+html.hires_void code,
+html.hires_void del,
+html.hires_void dfn,
+html.hires_void em,
+html.hires_void img,
+html.hires_void ins,
+html.hires_void kbd,
+html.hires_void q,
+html.hires_void s,
+html.hires_void samp,
+html.hires_void small,
+html.hires_void strike,
+html.hires_void strong,
+html.hires_void sub,
+html.hires_void sup,
+html.hires_void tt,
+html.hires_void var,
+html.hires_void dl,
+html.hires_void dt,
+html.hires_void dd,
+html.hires_void ol,
+html.hires_void ul,
+html.hires_void li,
+html.hires_void fieldset,
+html.hires_void form,
+html.hires_void label,
+html.hires_void legend,
+html.hires_void table,
+html.hires_void caption,
+html.hires_void tbody,
+html.hires_void tfoot,
+html.hires_void thead,
+html.hires_void tr,
+html.hires_void th,
+html.hires_void td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 14 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+html.hires_void body {
+  line-height: 1;
+  color: #000;
+  background: #fff;
+}
+
+/* line 16 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+html.hires_void ol,
+html.hires_void ul {
+  list-style: none;
+}
+
+/* line 18 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+html.hires_void table {
+  border-collapse: separate;
+  border-spacing: 0;
+  vertical-align: middle;
+}
+
+/* line 20 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+html.hires_void caption,
+html.hires_void th,
+html.hires_void td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 22 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/reset.styl */
+html.hires_void a img {
+  border: none;
+}
+
+/* line 12 : /Users/DPR/Github/hi-res/void/src/stylus/_reset.styl */
+html.hires_void * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 16 : /Users/DPR/Github/hi-res/void/src/stylus/_reset.styl */
+html.hires_void .cf {
+  zoom: 1;
+}
+
+/* line 22 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/clearfix.styl */
+html.hires_void .cf:before,
+html.hires_void .cf:after {
+  content: "";
+  display: table;
+}
+
+/* line 26 : /Users/DPR/Github/hi-res/void/node_modules/nib/lib/nib/clearfix.styl */
+html.hires_void .cf:after {
+  clear: both;
+}
+
+/* line 19 : /Users/DPR/Github/hi-res/void/src/stylus/_reset.styl */
+html.hires_void body {
+  background: #000;
+  overflow: hidden;
+}
+
+/* line 23 : /Users/DPR/Github/hi-res/void/src/stylus/_reset.styl */
+html.hires_void img {
+  max-width: 100%;
+}
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 77 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 77 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void body {
+  font-family: "EB Garamond", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-size: 1.4rem;
+  line-height: 2.24rem;
+  color: #fff;
+}
+
+/* line 11 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void h1 {
+  background-image: url("../img/svg/HIRES_LOGO.svg");
+  background-repeat: no-repeat;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  top: 7%;
+  left: 50%;
+  width: 106px;
+  width: 10.6rem;
+  height: 50px;
+  height: 5rem;
+  margin-top: -25px;
+  margin-top: -2.5rem;
+  margin-left: -53px;
+  margin-left: -5.3rem;
+}
+
+/* line 26 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void h1 a {
+  width: 10.6rem;
+  height: 5rem;
+  display: block;
+}
+@media only screen and (max-width: 767px) {
+
+/* line 144 : /Users/DPR/Github/hi-res/void/node_modules/rupture/rupture/index.styl */
+  html.hires_void h1 {
+    top: 10%;
+  }
+}
+
+/* line 34 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void h2 {
+  font-size: 20px;
+  line-height: 16px;
+  font-size: 2rem;
+  line-height: 3.2rem;
+}
+
+/* line 37 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void h3 {
+  font-size: 30px;
+  line-height: 16px;
+  font-size: 3rem;
+  line-height: 4.8rem;
+  letter-spacing: 14px;
+  letter-spacing: 1.4rem;
+}
+
+/* line 41 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void h4 {
+  font-size: 10px;
+  line-height: 16px;
+  font-size: 1rem;
+  line-height: 1.6rem;
+}
+
+/* line 44 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void h5 {
+  font-size: 10px;
+  line-height: 16px;
+  font-size: 1rem;
+  line-height: 1.6rem;
+}
+
+/* line 47 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void h6 {
+  font-size: 10px;
+  line-height: 16px;
+  font-size: 1rem;
+  line-height: 1.6rem;
+}
+
+/* line 50 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void h1,
+html.hires_void h2,
+html.hires_void h3,
+html.hires_void h4,
+html.hires_void h5,
+html.hires_void h6 {
+  font-family: "Montserrat";
+}
+
+/* line 53 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 57 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void p,
+html.hires_void dt,
+html.hires_void dd {
+  font-size: 17px;
+  line-height: 16px;
+  font-size: 1.7rem;
+  line-height: 2.72rem;
+  line-height: 18px;
+  line-height: 1.8rem;
+}
+@media only screen and (max-width: 767px) {
+
+/* line 144 : /Users/DPR/Github/hi-res/void/node_modules/rupture/rupture/index.styl */
+  html.hires_void p,
+  html.hires_void dt,
+  html.hires_void dd {
+    font-size: 16px;
+    line-height: 16px;
+    font-size: 1.6rem;
+    line-height: 2.56rem;
+    line-height: 18px;
+    line-height: 1.8rem;
+  }
+}
+
+/* line 65 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void .font-garamond {
+  font-family: 'EB Garamond';
+}
+
+/* line 68 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void .font-montserrat {
+  font-family: 'Montserrat';
+}
+
+/* line 71 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void .bold {
+  font-weight: bold;
+}
+
+/* line 74 : /Users/DPR/Github/hi-res/void/src/stylus/_fonts.styl */
+html.hires_void .caps-text {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  letter-spacing: 0.2rem;
+}
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 11 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 3 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-0 {
+  z-index: 0;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-1 {
+  z-index: 1;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-2 {
+  z-index: 2;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-3 {
+  z-index: 3;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-4 {
+  z-index: 4;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-5 {
+  z-index: 5;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-6 {
+  z-index: 6;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-7 {
+  z-index: 7;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-8 {
+  z-index: 8;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-9 {
+  z-index: 9;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-10 {
+  z-index: 10;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-11 {
+  z-index: 11;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-12 {
+  z-index: 12;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-13 {
+  z-index: 13;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-14 {
+  z-index: 14;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-15 {
+  z-index: 15;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-16 {
+  z-index: 16;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-17 {
+  z-index: 17;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-18 {
+  z-index: 18;
+}
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.layer-19 {
+  z-index: 19;
+}
+
+/* line 9 : /Users/DPR/Github/hi-res/void/src/stylus/_layout.styl */
+.content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 11 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 61 : /Users/DPR/Github/hi-res/void/src/stylus/_dev.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/_dev.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/_dev.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_dev.styl */
+html.hires_void .dg.ac {
+  z-index: 10000 !important;
+}
+
+/* line 9 : /Users/DPR/Github/hi-res/void/src/stylus/_dev.styl */
+html.hires_void .dg.ac .hue-field {
+  width: 13px !important;
+}
+
+/* line 12 : /Users/DPR/Github/hi-res/void/src/stylus/_dev.styl */
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: local('EB Garamond'), local('EBGaramond'), url("../fonts/EBGaramond/kYZt1bJ8UsGAPRGnkXPeFfZraR2Tg8w2lzm7kLNL0-w.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: local('EB Garamond'), local('EBGaramond'), url("../fonts/EBGaramond/kYZt1bJ8UsGAPRGnkXPeFV4sYYdJg5dU2qzJEVSuta0.woff2") format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: local('EB Garamond'), local('EBGaramond'), url("../fonts/EBGaramond/kYZt1bJ8UsGAPRGnkXPeFdDiNsR5a-9Oe_Ivpu8XWlY.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: local('EB Garamond'), local('EBGaramond'), url("../fonts/EBGaramond/kYZt1bJ8UsGAPRGnkXPeFaE8kM4xWR1_1bYURRojRGc.woff2") format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: local('EB Garamond'), local('EBGaramond'), url("../fonts/EBGaramond/kYZt1bJ8UsGAPRGnkXPeFZQV2lvL5Ba9FjAYK6Lx0Qk.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat-Regular'), url("../fonts/Montserrat/zhcz-_WihjSQC0oHJ9TCYAsYbbCjybiHxArTLjt7FRU.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+/* line 61 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 46 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+html.hires_void #navigation {
+  top: auto;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 13 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+html.hires_void #navigation ul li {
+  display: inline-block;
+  margin: 0 10px;
+  margin: 0rem 1rem;
+}
+
+/* line 18 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+html.hires_void #navigation ul li a {
+  padding: 30px 30px 20px 30px;
+  padding: 3rem 3rem 2rem 3rem;
+  display: block;
+  position: relative;
+}
+
+/* line 24 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+
+/* line 27 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+html.hires_void #navigation ul li a:hover span.ch,
+html.hires_void #navigation ul li a.active span.ch {
+  opacity: 1;
+  -ms-filter: none;
+  filter: none;
+}
+
+/* line 30 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+
+/* line 31 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+html.hires_void #navigation ul li a:hover span.title {
+  opacity: 1;
+  -ms-filter: none;
+  filter: none;
+  letter-spacing: 1px;
+}
+
+/* line 35 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+html.hires_void #navigation ul li a span {
+  width: 100%;
+  display: inline-block;
+}
+
+/* line 39 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+html.hires_void #navigation ul li a span.ch {
+  -webkit-transition: opacity 0.17s ease-in;
+  -moz-transition: opacity 0.17s ease-in;
+  -o-transition: opacity 0.17s ease-in;
+  -ms-transition: opacity 0.17s ease-in;
+  transition: opacity 0.17s ease-in;
+  opacity: 0.4;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+  filter: alpha(opacity=40);
+}
+
+/* line 43 : /Users/DPR/Github/hi-res/void/src/stylus/_navigation.styl */
+html.hires_void #navigation ul li a span.title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transition: opacity 0.5s ease-in 0.1s, letter-spacing 4s ease 0.1s;
+  -moz-transition: opacity 0.5s ease-in 0.1s, letter-spacing 4s ease 0.1s;
+  -o-transition: opacity 0.5s ease-in 0.1s, letter-spacing 4s ease 0.1s;
+  -ms-transition: opacity 0.5s ease-in 0.1s, letter-spacing 4s ease 0.1s;
+  transition: opacity 0.5s ease-in 0.1s, letter-spacing 4s ease 0.1s;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 46 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 86 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+html.hires_void #unsupported,
+html.hires_void #notfound {
+  background: url("../img/ui/error-background.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-position: 50%;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 16 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+html.hires_void #unsupported .message,
+html.hires_void #notfound .message {
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  width: 500px;
+  width: 50rem;
+  height: 385px;
+  height: 38.5rem;
+  margin-left: -250px;
+  margin-left: -25rem;
+  margin-top: -192.5px;
+  margin-top: -19.25rem;
+}
+
+/* line 30 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+html.hires_void #unsupported .message p,
+html.hires_void #notfound .message p {
+  margin-bottom: 10px;
+  margin-bottom: 1rem;
+}
+
+/* line 33 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+html.hires_void #unsupported .message a,
+html.hires_void #notfound .message a {
+  text-decoration: underline;
+}
+
+/* line 36 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+html.hires_void #unsupported h2,
+html.hires_void #notfound h2 {
+  text-align: center;
+  font-size: 50px;
+  line-height: 16px;
+  font-size: 5rem;
+  line-height: 8rem;
+  letter-spacing: 15px;
+  letter-spacing: 1.5rem;
+}
+
+/* line 41 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+html.hires_void #unsupported .the-future,
+html.hires_void #notfound .the-future {
+  -webkit-transform: scale(0.88);
+  -moz-transform: scale(0.88);
+  -o-transform: scale(0.88);
+  -ms-transform: scale(0.88);
+  transform: scale(0.88);
+  position: relative;
+  margin: 0 auto;
+  width: 293px;
+  width: 29.3rem;
+  height: 266px;
+  height: 26.6rem;
+}
+
+/* line 49 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+html.hires_void #unsupported .nyan,
+html.hires_void #notfound .nyan {
+  top: 18px;
+  top: 1.8rem;
+  left: 94px;
+  left: 9.4rem;
+}
+@media only screen and (max-width: 767px) {
+
+/* line 54 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+  html.hires_void #unsupported h2,
+  html.hires_void #notfound h2 {
+    font-size: 25px;
+    line-height: 16px;
+    font-size: 2.5rem;
+    line-height: 4rem;
+    letter-spacing: 5px;
+    letter-spacing: 0.5rem;
+  }
+
+/* line 58 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+  html.hires_void #unsupported .the-future,
+  html.hires_void #notfound .the-future {
+    -webkit-transform-origin: 50%;
+    -moz-transform-origin: 50%;
+    -o-transform-origin: 50%;
+    -ms-transform-origin: 50%;
+    transform-origin: 50%;
+    -webkit-transform: scale(0.7);
+    -moz-transform: scale(0.7);
+    -o-transform: scale(0.7);
+    -ms-transform: scale(0.7);
+    transform: scale(0.7);
+    height: 220px;
+    height: 22rem;
+  }
+
+/* line 67 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+  html.hires_void #unsupported .message,
+  html.hires_void #notfound .message {
+    top: 40%;
+    width: 300px;
+    width: 30rem;
+    height: 200px;
+    height: 20rem;
+    margin-left: -150px;
+    margin-left: -15rem;
+    margin-top: -100px;
+    margin-top: -10rem;
+  }
+}
+@media only screen and (max-width: 767px) and (max-width: 767px) and (orientation: landscape) {
+
+/* line 58 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+  html.hires_void #unsupported .the-future,
+  html.hires_void #notfound .the-future {
+    -webkit-transform: scale(0.3);
+    -moz-transform: scale(0.3);
+    -o-transform: scale(0.3);
+    -ms-transform: scale(0.3);
+    transform: scale(0.3);
+    height: 120px;
+    height: 12rem;
+  }
+}
+@media only screen and (max-width: 767px) and (max-width: 767px) and (orientation: landscape) {
+
+/* line 67 : /Users/DPR/Github/hi-res/void/src/stylus/_unsupported.styl */
+  html.hires_void #unsupported .message,
+  html.hires_void #notfound .message {
+    width: 400px;
+    width: 40rem;
+    height: 200px;
+    height: 20rem;
+    margin-left: -200px;
+    margin-left: -20rem;
+    margin-top: -100px;
+    margin-top: -10rem;
+  }
+}
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 18 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 11 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+main.konami {
+  -webkit-animation-name: konami;
+  -moz-animation-name: konami;
+  -o-animation-name: konami;
+  -ms-animation-name: konami;
+  animation-name: konami;
+  -webkit-animation-duration: 40s;
+  -moz-animation-duration: 40s;
+  -o-animation-duration: 40s;
+  -ms-animation-duration: 40s;
+  animation-duration: 40s;
+  animation-playstate: running;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+
+/* line 17 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+.sticker {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+@-moz-keyframes konami {
+
+/* line 5 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+  0% {
+    -webkit-filter: sepia(0.5) saturate(100) invert(1) brightness(0.8) sepia(0.5) saturate(100) hue-rotate(0deg);
+  }
+
+/* line 8 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+  100% {
+    -webkit-filter: sepia(0.5) saturate(100) invert(1) brightness(0.8) sepia(0.5) saturate(100) hue-rotate(360deg);
+  }
+}
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+@-webkit-keyframes konami {
+
+/* line 5 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+  0% {
+    -webkit-filter: sepia(0.5) saturate(100) invert(1) brightness(0.8) sepia(0.5) saturate(100) hue-rotate(0deg);
+  }
+
+/* line 8 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+  100% {
+    -webkit-filter: sepia(0.5) saturate(100) invert(1) brightness(0.8) sepia(0.5) saturate(100) hue-rotate(360deg);
+  }
+}
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+@-o-keyframes konami {
+
+/* line 5 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+  0% {
+    -webkit-filter: sepia(0.5) saturate(100) invert(1) brightness(0.8) sepia(0.5) saturate(100) hue-rotate(0deg);
+  }
+
+/* line 8 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+  100% {
+    -webkit-filter: sepia(0.5) saturate(100) invert(1) brightness(0.8) sepia(0.5) saturate(100) hue-rotate(360deg);
+  }
+}
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+@keyframes konami {
+
+/* line 5 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+  0% {
+    -webkit-filter: sepia(0.5) saturate(100) invert(1) brightness(0.8) sepia(0.5) saturate(100) hue-rotate(0deg);
+  }
+
+/* line 8 : /Users/DPR/Github/hi-res/void/src/stylus/_konami.styl */
+  100% {
+    -webkit-filter: sepia(0.5) saturate(100) invert(1) brightness(0.8) sepia(0.5) saturate(100) hue-rotate(360deg);
+  }
+}
+
+/* line 18 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_scene.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_scene.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_scene.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_scene.styl */
+html.hires_void .scene {
+  width: 100%;
+  height: 100%;
+}
+
+/* line 10 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_scene.styl */
+html.hires_void .scene .dim {
+  width: 100%;
+  height: 100%;
+  background: -webkit-radial-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0));
+  background: -moz-radial-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0));
+  background: -o-radial-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0));
+  background: -ms-radial-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0));
+  background: radial-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0));
+}
+
+/* line 14 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_scene.styl */
+html.hires_void .scene .hitarea {
+  width: 100%;
+  height: 100%;
+  background: rgba(255,0,0,0);
+}
+
+/* line 18 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_scene.styl */
+html.hires_void .scene .next {
+  top: auto;
+  left: 50%;
+  text-align: center;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  width: 600px;
+  width: 60rem;
+  margin-left: -300px;
+  margin-left: -30rem;
+  bottom: 100px;
+  bottom: 10rem;
+}
+
+/* line 31 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_scene.styl */
+html.hires_void .scene .next span {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 36 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+
+/* line 8 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+html.hires_void #home h1 {
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 11 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+html.hires_void #home h2 {
+  top: 31.7%;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  line-height: 16px;
+  font-size: 1.4rem;
+  line-height: 2.24rem;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  letter-spacing: 5px;
+  letter-spacing: 0.5rem;
+}
+
+/* line 19 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+html.hires_void #home .paragraphs {
+  top: 52.8%;
+  left: 50%;
+  text-align: center;
+  width: 460px;
+  width: 46rem;
+  margin-left: -230px;
+  margin-left: -23rem;
+}
+
+/* line 30 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+html.hires_void #home .paragraphs p {
+  margin-bottom: 22px;
+  margin-bottom: 2.2rem;
+  letter-spacing: 2px;
+  letter-spacing: 0.2rem;
+}
+
+/* line 34 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_home.styl */
+html.hires_void #home .paragraphs span {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  pointer-events: none;
+}
+
+/* line 36 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 111 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+
+/* line 8 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue h1 {
+  background: none;
+  top: 43.5%;
+  left: 50%;
+  cursor: pointer;
+  width: 200px;
+  width: 20rem;
+  height: 77px;
+  height: 7.7rem;
+  margin-top: -38.5px;
+  margin-top: -3.85rem;
+  margin-left: -100px;
+  margin-left: -10rem;
+}
+
+/* line 23 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue h2 {
+  top: 31.7%;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  line-height: 16px;
+  font-size: 1.4rem;
+  line-height: 2.24rem;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  letter-spacing: 5px;
+  letter-spacing: 0.5rem;
+}
+
+/* line 31 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .paragraphs {
+  top: 52.8%;
+  left: 50%;
+  text-align: center;
+  width: 460px;
+  width: 46rem;
+  margin-left: -230px;
+  margin-left: -23rem;
+}
+
+/* line 42 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .paragraphs p {
+  margin-bottom: 22px;
+  margin-bottom: 2.2rem;
+  letter-spacing: 2px;
+  letter-spacing: 0.2rem;
+}
+
+/* line 46 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .paragraphs span {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  pointer-events: none;
+}
+
+/* line 50 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .paragraphs dt,
+html.hires_void #epilogue .paragraphs dd {
+  display: inline-block;
+  width: 200px;
+  width: 20rem;
+}
+
+/* line 55 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .paragraphs dt {
+  text-align: right;
+  padding-right: 15px;
+  padding-right: 1.5rem;
+}
+
+/* line 59 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .paragraphs dd {
+  text-align: left;
+  font-weight: bold;
+  padding-left: 15px;
+  padding-left: 1.5rem;
+}
+
+/* line 64 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social {
+  top: 74%;
+  left: 50%;
+  text-align: center;
+  font-size: 25px;
+  line-height: 16px;
+  font-size: 2.5rem;
+  line-height: 4rem;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  width: 460px;
+  width: 46rem;
+  margin-left: -230px;
+  margin-left: -23rem;
+}
+
+/* line 80 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li {
+  display: inline-block;
+  margin: 0 10px;
+  margin: 0rem 1rem;
+  -webkit-transform: scale(0.6);
+  -moz-transform: scale(0.6);
+  -o-transform: scale(0.6);
+  -ms-transform: scale(0.6);
+  transform: scale(0.6);
+}
+
+/* line 85 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li a {
+  color: #808080;
+  display: inline-block;
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  width: 50px;
+  height: 50px;
+}
+
+/* line 92 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li a:hover {
+  color: #fff;
+}
+
+/* line 95 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li a.facebook {
+  background-image: url("/img/ui/facebook.png");
+}
+
+/* line 98 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li a.facebook:hover {
+  background-image: url("/img/ui/facebook.gif");
+}
+
+/* line 101 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li a.twitter {
+  background-image: url("/img/ui/twitter.png");
+}
+
+/* line 104 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li a.twitter:hover {
+  background-image: url("/img/ui/twitter.gif");
+}
+
+/* line 107 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li a.googleplus {
+  background-image: url("/img/ui/google.png");
+}
+
+/* line 110 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_epilogue.styl */
+html.hires_void #epilogue .social li a.googleplus:hover {
+  background-image: url("/img/ui/google.gif");
+}
+
+/* line 111 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 172 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+
+/* line 32 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+
+/* line 2 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 90 : /Users/DPR/Github/hi-res/void/src/stylus/_variables.styl */
+
+/* line 1 : /Users/DPR/Github/hi-res/void/src/stylus/_mixins.styl */
+
+/* line 4 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+
+/* line 6 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .dim {
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 9 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .transition_black {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  background-color: #000;
+}
+
+/* line 15 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .ui {
+  width: 100%;
+  height: 100%;
+}
+
+/* line 18 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter {
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  width: 700px;
+  width: 70rem;
+  margin-top: -182px;
+  margin-top: -18.2rem;
+  margin-left: -350px;
+  margin-left: -35rem;
+}
+
+/* line 31 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .chapter_index {
+  font-size: 18px;
+  line-height: 16px;
+  font-size: 1.8rem;
+  line-height: 2.88rem;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  margin-top: 8px;
+  margin-top: 0.8rem;
+}
+
+/* line 38 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter h2 {
+  font-size: 50px;
+  line-height: 16px;
+  font-size: 5rem;
+  line-height: 8rem;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  margin-top: 40px;
+  margin-top: 4rem;
+  margin-bottom: 50px;
+  margin-bottom: 5rem;
+  letter-spacing: 22px;
+  letter-spacing: 2.2rem;
+}
+
+/* line 46 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .about {
+  max-width: 60%;
+  margin: 0 auto;
+  margin-bottom: 31px;
+  margin-bottom: 3.1rem;
+  letter-spacing: 2px;
+  letter-spacing: 0.2rem;
+}
+
+/* line 54 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .about span {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 57 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .interactions {
+  text-align: center;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 62 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .interactions li {
+  display: inline-block;
+}
+
+/* line 66 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .interactions li span {
+  display: block;
+  font-size: 18px;
+  line-height: 16px;
+  font-size: 1.8rem;
+  line-height: 2.88rem;
+  margin-top: 15px;
+  margin-top: 1.5rem;
+  line-height: 20px;
+  line-height: 2rem;
+}
+
+/* line 72 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .interactions .icon.dragdrop {
+  width: 26px;
+  width: 2.6rem;
+  height: 30px;
+  height: 3rem;
+  background-image: url("../img/svg/icon_dragdrop.svg");
+  background-repeat: no-repeat;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  background-size: 100%;
+  margin: 0 auto;
+}
+
+/* line 81 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .authors {
+  position: relative;
+  margin-top: 34px;
+  margin-top: 3.4rem;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 89 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .authors .dash {
+  font-size: 40px;
+  line-height: 16px;
+  font-size: 4rem;
+  line-height: 6.4rem;
+  left: auto;
+  top: -20px;
+  top: -2rem;
+  color: #999;
+}
+
+/* line 95 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .authors dt,
+html.hires_void .chapter .authors dd {
+  display: inline-block;
+}
+
+/* line 98 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .authors dt {
+  margin: 0 5px;
+  margin: 0rem 0.5rem;
+}
+
+/* line 101 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .chapter .authors dd {
+  margin: 0 20px;
+  margin: 0rem 2rem;
+}
+
+/* line 104 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .next {
+  visibility: visible;
+  opacity: 1;
+  -ms-filter: none;
+  filter: none;
+}
+
+/* line 109 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .next h3 {
+  letter-spacing: 0;
+}
+
+/* line 112 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .next h3 a {
+  -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  -o-transition: all 0.4s ease-out;
+  -ms-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+  letter-spacing: 14px;
+  letter-spacing: 1.4rem;
+}
+
+/* line 115 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void .next h3 a:hover {
+  letter-spacing: 15px;
+  letter-spacing: 1.5rem;
+}
+
+/* line 118 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+
+/* line 120 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void #elements nav.geometry {
+  width: 500px;
+  width: 50rem;
+  margin-left: -250px;
+  margin-left: -25rem;
+  bottom: 215px;
+  bottom: 21.5rem;
+  text-align: center;
+  top: auto;
+  left: 50%;
+}
+
+/* line 132 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void #elements nav.geometry ul li {
+  display: inline-block;
+  margin: 0 29px;
+  margin: 0rem 2.9rem;
+  position: relative;
+}
+
+/* line 137 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void #elements nav.geometry ul li a {
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 140 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+
+/* line 142 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void #elements nav.geometry ul li a:hover [data-sequence],
+html.hires_void #elements nav.geometry ul li a.active [data-sequence] {
+  opacity: 1;
+  -ms-filter: none;
+  filter: none;
+}
+
+/* line 145 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void #elements [data-sequence] {
+  -webkit-transform: scale(0.4);
+  -moz-transform: scale(0.4);
+  -o-transform: scale(0.4);
+  -ms-transform: scale(0.4);
+  transform: scale(0.4);
+  margin-top: -26px;
+  margin-left: -57px;
+  opacity: 0.5;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=50);
+  -webkit-transition: opacity 0.3s ease-in-out;
+  -moz-transition: opacity 0.3s ease-in-out;
+  -o-transition: opacity 0.3s ease-in-out;
+  -ms-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* line 153 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void #elements .titles {
+  top: 38%;
+  left: 50%;
+  text-align: center;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  width: 600px;
+  width: 60rem;
+  margin-left: -300px;
+  margin-left: -30rem;
+}
+
+/* line 165 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void #elements .titles .title {
+  width: 100%;
+  text-transform: uppercase;
+  visibility: hidden;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+/* line 170 : /Users/DPR/Github/hi-res/void/src/stylus/scenes/_chapter.styl */
+html.hires_void #elements .titles .title h3 {
+  margin-left: 12px;
+  margin-left: 1.2rem;
+  font-size: 30px;
+  line-height: 16px;
+  font-size: 3rem;
+  line-height: 4.8rem;
+}
+
+/* line 17 : /Users/DPR/Github/hi-res/void/src/stylus/app.styl */
+.disable {
+  cursor: pointer;
+  pointer-events: none;
+}

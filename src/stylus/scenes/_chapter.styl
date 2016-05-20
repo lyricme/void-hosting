@@ -1,0 +1,172 @@
+@import '../_variables'
+@import '../_mixins'
+
+html.{NS}
+
+	.dim
+		hide()
+
+	.transition_black
+		fullscreen()
+		opacity: 0
+		background-color: black
+		// background-color: rgba(255, 0, 0, 0.3)
+
+	.ui
+		fullscreen()
+
+	.chapter
+
+		$height = 364px
+		$width  = 700px
+
+		top: 50%
+		left: 50%
+		text-align: center
+
+		remify(width, $width)
+		remify(margin-top, -($height/2))
+		remify(margin-left, -($width/2))
+
+		.chapter_index
+
+			font-size: 18px
+
+			hide()
+			remify(margin-top, 8px)
+
+		h2
+
+			font-size: 50px
+			hide()
+			remify(margin-top, 40px)
+			remify(margin-bottom, 50px)
+			remify(letter-spacing, 22px)
+
+		.about
+
+			max-width: 60%
+			margin: 0 auto
+
+			remify(margin-bottom, 31px)
+			remify(letter-spacing, 2px)
+
+			span
+				opacity: 0
+
+		.interactions
+
+			text-align: center
+			hide()
+
+			li
+
+				display: inline-block
+
+				span
+					display: block
+					font-size: 18px
+					remify(margin-top, 15px)
+					remify(line-height, 20px)
+
+			.icon.dragdrop
+				remify(width, 26px)
+				remify(height, 30px)
+
+				background-image: url('../img/svg/icon_dragdrop.svg')
+				background-repeat: no-repeat
+				background-size: 100%
+				margin: 0 auto
+
+		.authors
+
+
+			position: relative
+
+			remify(margin-top, 34px)
+			hide()
+
+			.dash
+				font-size: 40px
+				left: auto
+				remify(top, -20px)
+				color: $dash-gray
+
+			dt, dd
+				display: inline-block
+
+			dt
+				remify(margin, 0 5px)
+
+			dd
+				remify(margin, 0 20px)
+
+	.next
+
+		visibility: visible
+		opacity: 1
+
+		h3
+			letter-spacing: 0
+
+			a
+				transition: all 0.4s ease-out
+				remify(letter-spacing, 14px)
+				&:hover
+					remify(letter-spacing, 15px)
+
+	#elements
+
+		nav.geometry
+
+			$width = 500px
+
+			remify(width, $width)
+			remify(margin-left, -($width/2))
+			remify(bottom, 215px)
+
+			text-align: center
+			top: auto
+			left: 50%
+
+			ul li
+				display: inline-block
+				remify(margin, 0 29px)
+				position:relative
+
+				a
+					hide()
+
+					&:hover
+					&.active
+						[data-sequence]
+							opacity: 1
+
+		[data-sequence]
+			transform: scale(0.4)
+
+			margin-top: -26px
+			margin-left: -57px
+			opacity: 0.5
+			transition: opacity 0.3s ease-in-out
+
+		.titles
+
+			$width  = 600px
+
+			top: 38%
+			left: 50%
+			text-align: center
+
+			hide()
+			remify(width, $width)
+			remify(margin-left, -($width/2))
+
+			.title
+				width: 100%
+				text-transform: uppercase
+				hide()
+
+				h3
+					remify(margin-left, 12px)
+					font-size: 30px

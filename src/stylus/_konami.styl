@@ -1,0 +1,18 @@
+@import '_variables'
+@import '_mixins'
+
+@keyframes konami
+	0%
+		-webkit-filter: sepia(0.5) saturate(100) invert(1)  brightness(0.8) sepia(0.5) saturate(100) hue-rotate(0deg);
+		
+	100%
+		-webkit-filter: sepia(0.5) saturate(100) invert(1)  brightness(0.8) sepia(0.5) saturate(100) hue-rotate(360deg);
+	
+main.konami
+	animation-name: konami
+	animation-duration: 40s
+	animation-playstate: running
+	animation-iteration-count: infinite
+	
+.sticker
+	absolute top 0 left 0

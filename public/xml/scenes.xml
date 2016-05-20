@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenes>
+
+	<scene id="home">
+		<chapter><![CDATA[P]]></chapter>
+		<title><![CDATA[PROLOGUE]]></title>
+		<nav_title><![CDATA[Prologue]]></nav_title>
+		<paragraphs>
+			<paragraph><![CDATA[All art is created from nothing into something. Our imaginations piece together concepts which we then transform and manipulate mass to fill space.]]></paragraph>
+			<paragraph><![CDATA[We use the V O ID to house these pieces, and we see the emptiness that surrounds them as potential for new ideas.]]></paragraph>
+		</paragraphs>
+		<authors>
+		</authors>
+	</scene>
+
+	<scene id="blackice">
+		<chapter><![CDATA[I]]></chapter>
+		<title><![CDATA[BLACK ICE]]></title>
+		<nav_title><![CDATA[Black Ice]]></nav_title>
+		<paragraphs>
+			<paragraph><![CDATA[When liquid ice solidifies. . \.]]></paragraph>
+		</paragraphs>
+		<interactions>
+			<interaction id="dragdrop"><![CDATA[Drag and Drop an image<br/> to replace the texture]]></interaction>
+		</interactions>
+		<authors>
+			<author>
+				<name><![CDATA[David Rosser]]></name>
+				<role><![CDATA[Developer]]></role>
+			</author>
+			<author>
+				<name><![CDATA[Franz Dureigne]]></name>
+				<role><![CDATA[Sound Design]]></role>
+			</author>
+		</authors>
+	</scene>
+
+	<scene id="elements">
+		<chapter><![CDATA[II]]></chapter>
+		<title><![CDATA[ELEMENTS]]></title>
+		<nav_title><![CDATA[Elements]]></nav_title>
+		<paragraphs>
+			<paragraph><![CDATA[Earth, Air, Fire, Water, Aether . /. .]]></paragraph>
+		</paragraphs>
+		<authors>
+			<author>
+				<name><![CDATA[David Rosser]]></name>
+				<role><![CDATA[Developer]]></role>
+			</author>
+		</authors>
+	</scene>
+
+	<scene id="kubik">
+		<chapter><![CDATA[III]]></chapter>
+		<title><![CDATA[KUBIK]]></title>
+		<nav_title><![CDATA[Kubik]]></nav_title>
+		<paragraphs>
+			<paragraph><![CDATA[You can’t change your nature but you can decide what to do with it.]]></paragraph>
+		</paragraphs>
+		<authors>
+			<author>
+				<name><![CDATA[Henrique Mattias]]></name>
+				<role><![CDATA[Developer]]></role>
+			</author>
+		</authors>
+	</scene>
+
+	<scene id="hires">
+		<chapter><![CDATA[IV]]></chapter>
+		<title><![CDATA[Hi-ReS!]]></title>
+		<nav_title><![CDATA[Hi-ReS!]]></nav_title>
+		<paragraphs>
+			<paragraph><![CDATA[Black \. White]]></paragraph>
+		</paragraphs>
+		<authors>
+			<author>
+				<name><![CDATA[David Rosser]]></name>
+				<role><![CDATA[Developer]]></role>
+			</author>
+			<author>
+				<name><![CDATA[Henrique Mattias]]></name>
+				<role><![CDATA[Sound Programming]]></role>
+			</author>
+		</authors>
+	</scene>
+
+	<scene id="calvarium">
+		<chapter><![CDATA[V]]></chapter>
+		<title><![CDATA[CALVARIUM]]></title>
+		<nav_title><![CDATA[Calvarium]]></nav_title>
+		<paragraphs>
+			<paragraph><![CDATA[Earth to earth, ashes to ashes, dust to dust \ . ..]]></paragraph>
+		</paragraphs>
+		<authors>
+			<author>
+				<name><![CDATA[Scott Ashmore]]></name>
+				<role><![CDATA[Developer]]></role>
+			</author>
+		</authors>
+	</scene>
+
+	<scene id="liquidice">
+		<chapter><![CDATA[VI]]></chapter>
+		<title><![CDATA[LIQUID ICE]]></title>
+		<nav_title><![CDATA[Liquid Ice]]></nav_title>
+		<paragraphs>
+			<paragraph><![CDATA[When black ice liquefies. \. .]]></paragraph>
+		</paragraphs>
+		<authors>
+			<author>
+				<name><![CDATA[David Rosser]]></name>
+				<role><![CDATA[Developer]]></role>
+			</author>
+		</authors>
+	</scene>
+
+	<scene id="epilogue">
+		<chapter><![CDATA[E]]></chapter>
+		<title><![CDATA[EPILOGUE]]></title>
+		<nav_title><![CDATA[Epilogue]]></nav_title>
+		<paragraphs>
+			<paragraph><![CDATA[<dt>Art Direction</dt><dd>le Shka</dd>]]></paragraph>
+			<paragraph><![CDATA[<dt>Sound Design</dt><dd>Franz Dureigne and hems.io</dd>]]></paragraph>
+			<paragraph><![CDATA[<dt>Lead Creative Developer</dt><dd>IVXVIXVIII</dd>]]></paragraph>
+			<paragraph><![CDATA[<dt>Creative Developer</dt><dd>Scott Ashmore</dd>]]></paragraph>
+		</paragraphs>
+		<authors>
+		</authors>
+	</scene>
+
+</scenes>

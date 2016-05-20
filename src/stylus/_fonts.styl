@@ -1,0 +1,77 @@
+@import '_variables'
+@import '_mixins'
+
+html.{NS}
+
+	body
+		font-family: $font-family
+		font-size: $base-font-size
+		color: $base-color
+
+	h1
+
+		$width  = 106px
+		$height = 50px
+
+		background-image: url('../img/svg/HIRES_LOGO.svg')
+		background-repeat: no-repeat
+		background-size: 100%
+		top: 7%
+		left: 50%
+		remify(width, $width)
+		remify(height, $height)
+		remify(margin-top, -($height/2))
+		remify(margin-left, -($width/2))
+
+		a
+			width: @width
+			height: @height
+			display: block
+			
+		+mobile()
+			top: 10%
+
+	h2
+		font-size: $h2-font-size
+
+	h3
+		font-size: $h3-font-size
+		remify(letter-spacing, 14px)
+
+	h4
+		font-size: $h4-font-size
+
+	h5
+		font-size: $h5-font-size
+
+	h6
+		font-size: $h6-font-size
+
+	h1, h2, h3, h4, h5, h6
+		font-family: $header-font-family
+
+	a
+		color: white
+		text-decoration: none
+
+	p, dt, dd
+		font-size: 17px
+		remify(line-height, 18px)
+		
+		+mobile()
+			font-size: 16px
+			remify(line-height, 18px)
+
+	.font-garamond
+		font-family: 'EB Garamond'
+
+	.font-montserrat
+		font-family: 'Montserrat'
+
+	.bold
+		font-weight: bold
+
+	.caps-text
+
+		text-transform: uppercase
+		remify(letter-spacing, 2px)

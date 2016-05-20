@@ -1,0 +1,32 @@
+@import '../_variables'
+@import '../_mixins'
+
+html.{NS}
+
+	.scene
+		fullscreen()
+		
+		
+		.dim
+			fullscreen()
+			background: radial-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+			
+		.hitarea
+			fullscreen()
+			background: rgba(255, 0, 0, 0)
+		
+		.next
+		
+			$width  = 600px
+			
+			top: auto
+			left: 50%
+			text-align: center
+		
+			hide()
+			remify(width, $width)
+			remify(margin-left, -($width/2))
+			remify(bottom, 100px)
+			
+			span
+				opacity: 0

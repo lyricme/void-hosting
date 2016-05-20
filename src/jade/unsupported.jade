@@ -1,0 +1,19 @@
+.section(id="unsupported", class="layer layer-1")
+
+	.content
+
+		h1(class="hi_res layer layer-1")
+			a(href="http://hi-res.net", title="Hi-ReS!")
+
+		.message.layer
+
+			.the-future
+				img.nyan.layer.layer-1(src="#{locals.base_path}/img/ui/nyan.gif")
+				img.ibm.layer.layer-2(src="#{locals.base_path}/img/ui/ibm.png")
+
+			h2 #{dictionary.get('unsupported_title')}
+
+			if locals.device
+				| !{dictionary.get('unsupported_text_device')}
+			else
+				| !{dictionary.get('unsupported_text_desktop')}

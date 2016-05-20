@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html class="hires_void"></html>
+<head>
+	<title>V O ID :: SOUND TEST</title>
+	<meta charset="utf-8">
+	<script>
+		var env = {
+		 BASE_PATH: '/void'
+		};
+		
+	</script>
+	<script src="/void/js/jquery-2.1.1.min.js"></script>
+</head>
+<body class="dev">
+	<main id="void"></main>
+	<script src="/void/js/dev/howler.core.js"></script>
+	<script src="/void/js/dev/howler.effects.js"></script>
+	<script src="/void/js/dev/dat.gui.js"></script>
+
+	<script type="text/javascript">
+
+		$(function(){
+
+			var settings = {
+				pos_x : 0
+				,pos_y: 0
+				,pos_z: 0
+				,vol_x: 0
+				,vol_y: 0
+				,vol_z: 0
+			};
+			var gui = new dat.GUI();
+
+			var range = 50;
+			gui.add(settings, 'pos_x', -range, range);
+			gui.add(settings, 'pos_y', -range, range);
+			gui.add(settings, 'pos_z', -range, range);
+			range = 1000;
+			gui.add(settings, 'vol_x', -range, range);
+			gui.add(settings, 'vol_y', -range, range);
+			gui.add(settings, 'vol_z', -range, range);
+
+			var loaded = false;
+			var id = 0
+
+			window.sound = new Howl({
+				src: 'sound/kubik/top.mp3',
+				onload: function(){
+
+					console.log('loaded');
+
+					loaded = true;
+					sound.loop(true);
+					sound.play();
+
+					id = sound._sounds[0]._id
+				}
+			});
+
+			function update(){
+
+				// console.log(id);
+
+				if(loaded){
+
+					sound.pos(settings.pos_x, settings.pos_y, settings.pos_z);
+
+					sound.velocity(settings.vol_x, settings.vol_y, settings.vol_z);
+
+					// sound.sound._sounds[0]
+
+					// sound.pannerAttr({
+
+					// });
+				}
+
+				
+
+				requestAnimationFrame(update);
+			}
+
+			update();
+
+		});
+
+
+	</script>
+</body>

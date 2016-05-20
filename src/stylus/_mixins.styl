@@ -1,0 +1,90 @@
+inlist(val, list)
+    return true if val == prop for prop, i in list
+
+clearfix()
+	&:before
+	&:after
+		content: " "
+		display: table
+
+	&:after
+		clear: both
+
+	*zoom: 1
+
+font-size($size = 10px, $line-height = 16px)
+	
+	u = unit($size)
+
+	if value is inherit
+		// do nothing
+	else if u is '%'
+		// Just print the size
+		font-size: $size
+	else
+		
+		// Fallback to px
+		font-size: $size
+		line-height: $line-height
+		
+		$rem-size 		 = px-rem($size)
+		$rem-line-height = $rem-size * $line-height
+
+		font-size: px-rem($size)
+		line-height: px-rem($rem-line-height)
+		
+
+px-rem($size, $base = 10)
+	return unit($size / $base, rem)
+	
+remify($prop, $size)
+
+	{$prop}: $size
+	
+	expanders = 'margin' 'padding' 'margin-top'
+	
+	if inlist($prop, expanders)
+					
+		len = length($size)
+		
+		$args = ()
+		
+		for i in 0...len
+			
+			u = unit($size[i])
+
+			if u is '%'
+				// do nothing
+			else
+				val 	 = $size[i]
+				$args[i] = px-rem(val)
+			
+		{$prop}: $args
+
+	else
+		{$prop}: px-rem($size)
+		
+size($width, $height)
+	remify(width, $width)
+	remify(height, $height)
+	
+fullscreen()
+	width: 100%
+	height: 100%
+	
+hide()
+	visibility: hidden
+	opacity: 0
+	
+random(n){ math(n, 'random') }
+
+random-range(min, max)
+	min + (random(1) * (max - min))
+	
+abs-center($width, $height)
+	remify(margin-top, -($width/2))
+	remify(margin-left, -($height/2))
+	remify(width, $width)
+	remify(height, $height)
+	top: 50%
+	left: 50%

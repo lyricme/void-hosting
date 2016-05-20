@@ -1,0 +1,23 @@
+{
+	"sequences": [
+		{
+			"type": "spritesheet"
+			,"title": "air"
+			,"dirs": ["src/assets/spritesheet/air"]
+			,"src": "src"
+			,"out": "output"
+			,"format": "png"
+			,"quality": "70"
+			,"src_scale": 1
+			,"frame_scale": 1
+			,"spacing_x": 0
+			,"spacing_y": 0
+			,"spritesheet_width": 512
+			,"spritesheet_height": 512
+			,"extensions": ["png"]
+			,"keyframes": {
+				"start": 0
+			}
+		}
+	]
+}

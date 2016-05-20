@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+
+	<unsupported_title><![CDATA[OH NO]]></unsupported_title>
+	<notfound_title><![CDATA[404]]></notfound_title>
+
+	<unsupported_text_device><![CDATA[
+		<p>This is a desktop experience.</p>
+		<p>Please try again using the latest<br/> Chrome or Safari desktop browser.</p>
+		<p>Alternatively you can read about the creation of <a href="https://medium.com/@HiReSLondon/creating-the-void-851d95488dc1">VOID</a></p>
+		<p>Want to get in touch? Email us at <a href="mailto:info@hi-res.net">info@hi-res.net</a></p>
+		]]></unsupported_text_device>
+
+	<unsupported_text_desktop><![CDATA[
+		<p>Your browser doesn't meet the minimum requirements.<br/>Please try again using the latest Chrome or Safari browser.</p>
+		<p>Alternatively you can read about the creation of <a href="https://medium.com/@HiReSLondon/creating-the-void-851d95488dc1">VOID</a></p>
+		<p>Want to get in touch? Email us at <a href="mailto:info@hi-res.net">info@hi-res.net</a></p>
+		]]></unsupported_text_desktop>
+
+	<share_text><![CDATA[VOID]]></share_text>
+
+</dictionary>

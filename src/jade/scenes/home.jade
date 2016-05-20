@@ -1,0 +1,17 @@
+extends scene
+
+block content
+
+	.hitarea.layer.layer-0
+
+	h1(class="hi_res layer layer-1"): a(href="http://hi-res.net", title="Hi-ReS!", target="_blank")
+
+	h2(class="layer layer-1 font-garamond bold") PREFACE
+
+	.paragraphs.layer
+		for paragraph in locals.data.paragraphs
+			p !{paragraph}
+
+
+	a.next.layer.layer_2.caps-text
+		| HOLD THE SPACE BAR TO CONTINUE

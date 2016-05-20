@@ -1,0 +1,23 @@
+{
+	"sequences": [
+		{
+			"type": "spritesheet"
+			,"title": "hires"
+			,"dirs": ["src/assets/spritesheet/hires"]
+			,"src": "src"
+			,"out": "output"
+			,"format": "png"
+			,"quality": "70"
+			,"src_scale": 1
+			,"frame_scale": 0.5
+			,"spacing_x": 0
+			,"spacing_y": 0
+			,"spritesheet_width": 2048
+			,"spritesheet_height": 2048
+			,"extensions": ["png"]
+			,"keyframes": {
+				"start": 0
+			}
+		}
+	]
+}
