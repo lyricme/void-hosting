@@ -98,10 +98,10 @@ module.exports = class Blackice extends Experiment
 		@audio_pos_z = @config.audio_pos_z_in
 
 		@sounds =
-			base_1: utils.get_asset('base_1', manifest).data
-			base_2: utils.get_asset('base_2', manifest).data
-			base_3: utils.get_asset('base_3', manifest).data
-			melody: utils.get_asset('melody', manifest).data
+			base_1: utils.get_asset('base_1', @manifest).data
+			base_2: utils.get_asset('base_2', @manifest).data
+			base_3: utils.get_asset('base_3', @manifest).data
+			melody: utils.get_asset('melody', @manifest).data
 
 		@sounds.melody.volume 0.7
 		do @sounds.melody.play
