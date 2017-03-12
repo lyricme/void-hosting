@@ -30,8 +30,8 @@ exports.paths =
 		'./src/vendor/MaskPass.js'
 		'./src/vendor/ShaderPass.js'
 		'./src/vendor/Projector.js'
-		'./src/vendor/howler.core.js'
-		'./src/vendor/howler.effects.js'
+		'./src/vendor/howler.js'
+		'./src/vendor/howler.spatial.min.js'
 	]
 	destination: './public/js/'
 	filename: 'vendor.js'

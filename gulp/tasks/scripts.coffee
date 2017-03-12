@@ -13,6 +13,8 @@ staging     = process.env.NODE_ENV is 'staging'
 production  = process.env.NODE_ENV is 'production'
 base_path   = process.env.PWD
 
+console.log 'production', production
+
 exports.paths =
 	source: './src/coffee/app.coffee'
 	watch: './src/coffee/**/*.coffee'

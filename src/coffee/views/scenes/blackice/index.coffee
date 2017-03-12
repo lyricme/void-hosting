@@ -420,7 +420,7 @@ module.exports = class Blackice extends Experiment
 
 		x *= preset.vel_x
 
-		base.velocity x, null, null, base._sounds[0]._id
+		# base.velocity x, null, null, base._sounds[0]._id
 
 		@mesh.rotation.x += @accel_x * (@mouse.normal_center_x * preset.movement_speed)
 		@mesh.rotation.y += @accel_x * (@mouse.normal_center_y * preset.movement_speed)

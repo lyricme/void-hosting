@@ -6509,7 +6509,6 @@
 	    base.pos(x, y, z);
 	    this.sounds.melody.pos(0, 0, z);
 	    x *= preset.vel_x;
-	    base.velocity(x, null, null, base._sounds[0]._id);
 	    this.mesh.rotation.x += this.accel_x * (this.mouse.normal_center_x * preset.movement_speed);
 	    this.mesh.rotation.y += this.accel_x * (this.mouse.normal_center_y * preset.movement_speed);
 	    return this.mesh.rotation.z += this.accel_y * (this.mouse.normal_center_y * preset.movement_speed);
@@ -14567,7 +14566,6 @@
 	    }
 	    this.audio_pos_x = this.mouse.normal_center_x * 4;
 	    this.sounds.background.pos(this.audio_pos_x, null, this.audio_pos_z);
-	    this.sounds.background.velocity(this.accel_x, this.accel_y, this.accel_z);
 	    ref = this.cubes;
 	    results = [];
 	    for (index in ref) {

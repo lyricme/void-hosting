@@ -312,12 +312,10 @@ module.exports = class Kubik extends Experiment
 
 		# @sounds.background.pos @audio_pos_x, null, @audio_pos_z
 		@sounds.background.pos @audio_pos_x, null, @audio_pos_z
-		@sounds.background.velocity @accel_x, @accel_y, @accel_z
+		# @sounds.background.velocity @accel_x, @accel_y, @accel_z
 
 		for index, cube of @cubes
 
 			ratio = index / @cubes.length
 
 			cube.rotation.x += 0.5 * Math.PI / 180
-
-
