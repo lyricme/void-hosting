@@ -27,7 +27,7 @@
     "coffeeify": "~0.6.0",
     "deamdify": "^0.1.1",
     "debowerify": "~0.8.2",
-    "ecstatic": "~0.5.3",
+    "ecstatic": "~4.1.2",
     "gulp": "~3.8.1",
     "gulp-autoprefixer": "0.0.7",
     "gulp-concat": "^2.4.1",
